@@ -11,7 +11,7 @@
 </p>
 </p>
 
-I'm a lead engineer who is passionate about making contributing to design and manage the application platform. As a lead, I have good professional experience in software development and deep understanding of the technologies. Some technologies I enjoy working with include Javascript, Typescript, Nrwl Nx, NgRx, NGINX, Angular 2+, NodeJS, GraphQL, ReverseProxy, .Net, Sequelize ORM, PostgreSQL and many..., mostly interested in to design microsite and microservice archicture.
+I'm a lead engineer who is passionate about making contributing to design and manage the application platform. As a lead, I have good professional experience in software development and deep understanding of the technologies. Some technologies I enjoy working with include Javascript, Typescript, Nrwl Nx, NgRx, NGINX, Angular 2+, NodeJS, GraphQL, ReverseProxy, .Net, Sequelize ORM,Cloud-AWS, PostgreSQL and many..., mostly interested in to design microsite and microservice archicture.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KMaruchsamy&label=Profile%20views&color=0e75b6&style=flat" alt="Karthik KM" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
@@ -36,11 +36,12 @@ I'm a lead engineer who is passionate about making contributing to design and ma
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Reverseproxy-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Nrwl-Nx-informational?style=flat&logo=Nrwl&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/StateManagement-NGRX-informational?style=flat&logo=NGRX&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Backend-Node-informational?style=flat&logo=Node&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Backend-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
@@ -76,8 +77,6 @@ I'm a lead engineer who is passionate about making contributing to design and ma
 [![Karthik KM Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMaruchsamy&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=KMaruchsamy&layout=compact&show_icons=true&count_private=true&theme=vision-friendly-dark)
 
 [![Karthik KM wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KMaruchsamy)](https://wakatime.com/@KMaruchsamy)
-
-<br>
 
 <!--START_SECTION:waka-->
 
