@@ -68,6 +68,7 @@ I'm a lead engineer who is passionate about making contributing to design and ma
 ## &#x1f4c8; GitHub Stats
 
 <br>
+
 [![Karthik KM GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KMaruchsamy&show_icons=true&count_private=true&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](http://github-readme-streak-stats.herokuapp.com?user=KMaruchsamy&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)
 
 [![Karthik KM GitHub stats](https://github-readme-stats.vercel.app/api?username=KMaruchsamy&count_private=true&show_icons=true&theme=solarized-dark&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=KMaruchsamy&count_private=true&show_icons=true&theme=solarized-dark)
@@ -75,6 +76,7 @@ I'm a lead engineer who is passionate about making contributing to design and ma
 [![Karthik KM Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMaruchsamy&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=KMaruchsamy&layout=compact&show_icons=true&count_private=true&theme=vision-friendly-dark)
 
 [![Karthik KM wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KMaruchsamy)](https://wakatime.com/@KMaruchsamy)
+
 <br>
 
 <!--START_SECTION:waka-->
