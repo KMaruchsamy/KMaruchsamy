@@ -11,7 +11,7 @@
 </p>
 </p>
 
-I'm a lead engineer who is passionate about making contributing to design and manage the application platform. As a lead, I have good professional experience in software development and deep understanding of the technologies. Some technologies I enjoy working with include Javascript, Typescript, Nrwl Nx, NgRx, NGINX, Angular 2+, NodeJS, GraphQL, ReverseProxy, .Net, Sequelize ORM,Cloud-AWS, PostgreSQL and many..., mostly interested in to design microsite and microservice archicture.
+I'm a lead engineer, who is passionate about making contributing to design and manage the application platform. As a lead enngineer, I have good professional experience in software development and deep understanding of the technologies. The technologies I enjoy working with include Javascript, Typescript, Nrwl Nx, NgRx, NGINX, Angular 2+, NodeJS, GraphQL, ReverseProxy, .Net, Sequelize ORM,Cloud-AWS, PostgreSQL and many..., mostly interested in to design the microsite and microservice archicture
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KMaruchsamy&label=Profile%20views&color=0e75b6&style=flat" alt="Karthik KM" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
